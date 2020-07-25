@@ -1,7 +1,7 @@
 <p align="center"><a href="http://www.codechefvit.com" target="_blank"><img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo-3.png" title="CodeChef-VIT" alt="Codechef-VIT"></a>
 </p>
 
-# Project Title
+Flutter Bootcamp
 
 > <Subtitle>
 > Include project description here.
@@ -14,7 +14,7 @@
 
 
 ## Features
-- Insert list of features here
+- This is a website for our event Flutter Bootcamp in Gravitas 2020 and will contain all the necessary details about the event.
 
 
 
