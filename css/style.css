@@ -7,7 +7,7 @@ body {
 	font-size: 19px;
 	font-weight: 300;
 }
-a { color: #81b4eb;  }
+a { color: #0F4C75;  }
 a, button { transition: all 0.3s ease; }
 a:hover,
 a:focus {
@@ -50,27 +50,6 @@ a:focus {
 	text-align: center;
 	height: 800px;
 }
-
-#videoBG {
-	/* background-repeat: no-repeat; */
-	z-index: -10;
-	position: absolute;
-	width: 100%;
-}
-@media (min-aspect-ratio: 16/9) {
-    #videoBG {
-        width:100%;
-        height: auto;
-    }
-}
-
-@media (max-aspect-ratio: 16/9) {
-    #videoBG { 
-        width:auto;
-		height: 100%;
-    }
-}
-} */
 
 .tm-wrapper-center {
 	display: -webkit-flex;
@@ -129,7 +108,7 @@ a:focus {
 	color: #81b4eb;
 	font-size: 2.1rem;
 	font-weight: 300;
-	margin-bottom: 3rem;
+	margin-bottom: 0px;
 }
 
 .tm-carousel-item-text {
@@ -522,6 +501,14 @@ hr { width: 65%; }
 @media (max-width: 767px) {
 	.tm-form-group-left { padding-right: 0;	}
 }
+
+
+
+
+
+
+
+
 
 
 
