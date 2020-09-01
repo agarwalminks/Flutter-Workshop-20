@@ -13,12 +13,12 @@
 
 
 ## Features
-- Contains all the necessary details regarding the event.
-html:layout
-CSS:Designing of the website
-Bootstrap:Making it responsive(image grid,footer)
-Javascript: Dyanamic features of the website(countdown)
-jquery
+-Contains all the necessary details regarding the event.
+-html:layout
+-CSS:Designing of the website
+-Bootstrap:Making it responsive(image grid,footer)
+-Javascript: Dyanamic features of the website(countdown)
+-jquery
 
 ## Screenshots
 <img src="https://github.com/akshatvg/common-entry-test/raw/master/static/img/header.png" alt="Project Screenshots">
