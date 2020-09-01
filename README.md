@@ -21,7 +21,7 @@
 -jquery
 
 ## Screenshots
-<img src="https://github.com/akshatvg/common-entry-test/raw/master/static/img/header.png" alt="Project Screenshots">
+<img src="https://i.ibb.co/jv5zwb3/IMG-20200901-WA0079-02.jpg" alt="Project Screenshots">
 
 ## Instructions to run
 
