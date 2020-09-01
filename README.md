@@ -13,10 +13,12 @@
 
 
 ## Features
-- Insert list of features here
-
-
-
+- Contains all the necessary details regarding the event.
+html:layout
+CSS:Designing of the website
+Bootstrap:Making it responsive(image grid,footer)
+Javascript: Dyanamic features of the website(countdown)
+jquery
 
 ## Screenshots
 <img src="https://github.com/akshatvg/common-entry-test/raw/master/static/img/header.png" alt="Project Screenshots">
@@ -25,13 +27,13 @@
 
 ```
 $ git clone https://github.com/CodeChefVIT/<Project>
-$ cd <Project>
+$ cd Flutter-Workshop-20
 $ pip3 install -r requirements.txt
 $ python3 manage.py runserver
 ```
 
 ## Contributors
-- <a href="https://github.com/musk101">Muskan Agarwak</a>
+- <a href="https://github.com/musk101">Muskan Agarwal</a>
 
 ## License
 
