@@ -27,7 +27,7 @@
 ## Instructions to run
 
 ```
-$ git clone https://github.com/CodeChefVIT/<Project>
+$ git clone https://github.com/CodeChefVIT/Flutter-Workshop-20
 $ cd Flutter-Workshop-20
 $ pip3 install -r requirements.txt
 $ python3 manage.py runserver
