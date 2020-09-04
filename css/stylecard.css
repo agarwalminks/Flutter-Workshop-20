@@ -9,6 +9,7 @@
 
 .card {
   margin: 20px 0;
+  
 }
 
 /* Flip Cards CSS */
@@ -19,7 +20,8 @@
   position: relative;
   width: 100%;
   transform-style: preserve-3d;
-  height: auto;
+  min-height: 80px;
+  height: 100%;
   transition: all 0.5s ease-out;
   background: white;
   border: none;
@@ -35,6 +37,7 @@
 
 .card-flip .front {
   position: relative;
+  height: 200px;
   z-index: 1;
 }
 
