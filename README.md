@@ -1,11 +1,10 @@
 <p align="center"><a href="http://www.codechefvit.com" target="_blank"><img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo-3.png" title="CodeChef-VIT" alt="Codechef-VIT"></a>
 </p>
 
-# Project Title
+# Flutter Bootcamp
 
 > <Subtitle>
-> Include project description here.
-
+> graVITas 2020 Official Website for Flutter Bootcamp workshop
 ---
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
@@ -14,26 +13,28 @@
 
 
 ## Features
-- Insert list of features here
-
-
-
+-Contains all the necessary details regarding the event.
+-html:layout
+-CSS:Designing of the website
+-Bootstrap:Making it responsive(image grid,footer)
+-Javascript: Dyanamic features of the website(countdown)
+-jquery
 
 ## Screenshots
-<img src="https://github.com/akshatvg/common-entry-test/raw/master/static/img/header.png" alt="Project Screenshots">
+<img src="https://i.ibb.co/jv5zwb3/IMG-20200901-WA0079-02.jpg" alt="Project Screenshots">
+<img src="https://i.ibb.co/bdgs3W3/IMG-20200901-WA0081-01.jpg" alt="Project Screenshots">
 
 ## Instructions to run
 
 ```
-$ git clone https://github.com/CodeChefVIT/<Project>
-$ cd <Project>
+$ git clone https://github.com/CodeChefVIT/Flutter-Workshop-20
+$ cd Flutter-Workshop-20
 $ pip3 install -r requirements.txt
 $ python3 manage.py runserver
 ```
 
 ## Contributors
-- <a href="https://github.com/<Contributor>">Contributor Name</a>
-- <a href="https://github.com/<Contributor>">Contributor Name</a>
+- <a href="https://github.com/musk101">Muskan Agarwal</a>
 
 ## License
 
