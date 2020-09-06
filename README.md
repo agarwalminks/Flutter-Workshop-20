@@ -21,11 +21,7 @@
 -jquery
 
 ## Screenshots
-<<<<<<< HEAD
-<img src="https://i.ibb.co/zX4FZkK/IMG-20200905-WA0036-01-01.jpg" alt="Project Screenshots" alt="Project Screenshots">
-=======
 <img src="https://i.ibb.co/zX4FZkK/IMG-20200905-WA0036-01-01.jpg" alt="Project Screenshots">
->>>>>>> 807bcd2e09474be2d36b5d86e78c47bc66930815
 <img src="https://i.ibb.co/bdgs3W3/IMG-20200901-WA0081-01.jpg" alt="Project Screenshots">
 
 ## Instructions to run
