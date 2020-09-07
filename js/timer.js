@@ -8,9 +8,7 @@ const loading = document.getElementById('loading');
 
 const currentYear = new Date().getFullYear();
 
-const newYearTime = new Date(`October 01 ${currentYear + 1} 00:00:00`);
-
-
+const newYearTime = new Date(`February 2 ${currentYear + 1} 02:50:07`);
 
 // Update countdown time
 function updateCountdown() {
@@ -23,10 +21,10 @@ function updateCountdown() {
   const s = Math.floor(diff / 1000) % 60;
 
   // Add values to DOM
-  days.innerHTML = d;
-  hours.innerHTML = h < 10 ? '0' + h : h;
-  minutes.innerHTML = m < 10 ? '0' + m : m;
-  seconds.innerHTML = s < 10 ? '0' + s : s;
+  days.innerHTML = d-123;
+  hours.innerHTML = h+1;
+  minutes.innerHTML = m+44 ;
+  seconds.innerHTML = s+12;
 }
 
 // Show spinner before countdown
