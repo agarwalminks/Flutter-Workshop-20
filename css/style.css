@@ -22,7 +22,7 @@ a:focus {
 }
 
 .my-img{
-	margin-left: auto;
+	margin-: auto;
 }
 
 .custom-toggler .navbar-toggler-icon {
@@ -30,11 +30,13 @@ a:focus {
   }
   
   .custom-toggler.navbar-toggler {
+	  float: right;
 	border-color:#0F4C75;
   } 
 
 .my-bar{
 	background-color:white;
+
 	color: black;
 }
 .tm-section-intro {
