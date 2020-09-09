@@ -510,8 +510,28 @@ hr { width: 65%; }
 	.tm-form-group-left { padding-right: 0;	}
 }
 
+.google-btn {
+    text-transform:none;
+    border: none;
+    transition: 200ms;
+}
 
+.google-btn>img {
+    transition: 200ms;
+}
 
+.google-btn:hover {
+    background: none;
+    color: rgb(78, 78, 78);
+    font-size: 21px;
+    transition: 300ms;
+    
+}
+
+.google-btn:hover>img {
+    width: 30px;
+    transition: 300ms;
+}
 
 
 
