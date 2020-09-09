@@ -24,19 +24,16 @@
     opacity: 1;
     transform: scale3d(1,1,1);
   }
-}
+} 
+
+
+  
+
 h1 {
   color: #fcfcfc;
   text-align: center;
   margin-bottom: 30px;
 }
-
-/* .jumbotron { */
-    /* Chrome 10-25, safari 5.1-6   */
-/*   background: -webkit-linear-gradient(to right, #002259, #fcfcfc); */
-/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-/*   background: linear-gradient(to right, #fcfcfc, #002259); */
-/*  }  */
 
 /*timer*/
 @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
@@ -120,10 +117,6 @@ width:70vw;
   /*transform: scale(2);*/
 }
 
-/*.time {
-  display: flex;
-  flex-direction: column;
-}*/
 @media (max-width: 500px) {
   h1 {
     font-size: 45px;
@@ -216,27 +209,17 @@ width:100%;
   height: 140px;
   text-align: center;
   padding-top: 15px;
-
-
 }
-
 .abc{
   width: 17%;
-
-
 }
-
 @media (max-width: 500px) {
-  
   .abc{
  width: 1000px;
-
-
 }
 .abcd{
    width:0px;
 }
-
 .a1{
   width:90%;
 }
