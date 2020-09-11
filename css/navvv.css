@@ -1,3 +1,5 @@
+
+
 @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
 *{
   margin: 0px;
@@ -12,7 +14,9 @@ nav{
   min-height: 10vh;
   background-color: #0F3460;
   font-family: 'Poppins', sans-serif;
+  
    z-index: 99999;
+   overflow-x: hidden;
 }
 
 .logo{
@@ -40,7 +44,7 @@ nav{
   text-decoration: none;
   letter-spacing: 3px;
   font-weight:bold;
-  font-size:14px;
+  font-size:99%;
   z-index: 99999;
 }
 
@@ -75,13 +79,13 @@ nav{
   .nav-links{
     position:absolute;
     right:0px;
-    height:92vh;
-    top: 8vh;
-    background-color: #0F3460;
+    height:100%;
+    top: 0vh;
+    background-color:rgb(15,52,96,0.9);
     display:flex;
     flex-direction: column;  
     align-items: center;
-    width:50%;
+    width:100%;
     transform: translateX(100%);
     transition: transform 0.5s ease-in;
     z-index: 99999;
